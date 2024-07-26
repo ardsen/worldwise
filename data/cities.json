@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "4370",
+      "cityName": "Loures",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-07-23T17:09:44.440Z",
+      "notes": "",
+      "position": {
+        "lat": "38.79249316167456",
+        "lng": "-9.118652343750002"
+      }
+    },
+    {
+      "id": "b16f",
+      "cityName": "Istanbul",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-07-24T17:37:01.196Z",
+      "notes": "",
+      "position": {
+        "lat": "41.00943888076626",
+        "lng": "28.972406387329105"
+      }
+    },
+    {
+      "id": "8b7b",
+      "cityName": "Ankara",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-07-26T01:47:38.227Z",
+      "notes": "It was a beautiful city.",
+      "position": {
+        "lat": "39.920269337633975",
+        "lng": "32.85324096679688"
+      }
+    }
+  ]
+}
