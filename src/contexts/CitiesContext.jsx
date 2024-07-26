@@ -1,6 +1,6 @@
 import { createContext, useEffect, useContext, useReducer } from "react";
 
-const BASE_URL = "http://localhost:9000";
+const BASE_URL = "https://curious-brick-nitrogen.glitch.me/";
 const CitiesContext = createContext();
 
 const initialState = {
@@ -60,10 +60,6 @@ function CitiesProvider({ children }) {
     reducer,
     initialState
   );
-
-  // const [cities, setCities] = useState([]);
-  // const [isLoading, setIsLoading] = useState(false);
-  // const [currentCity, setCurrentCity] = useState({});
 
   useEffect(() => {
     async function fetchCities() {
